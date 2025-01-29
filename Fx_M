@@ -1,0 +1,10 @@
+(
+    numA as number, 
+    numB as number
+)=>
+
+let
+    soma = numA + numB*10
+    
+in
+    soma
